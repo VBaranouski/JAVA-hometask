@@ -1,0 +1,30 @@
+[
+	{
+		"Name":  "Snikers", 
+		"Cost":   9.5,
+		"Weight": 100.0,
+		"Type":   "Chocolate",
+		"Other":  "Hazelnut"
+	}
+	{
+		"Name": "Kit-kat", 
+		"Cost": 6.6,
+		"Weight": 45.5,
+		"Type": "Chocolate",
+		"Other": "Nuga"
+	}
+		{
+		"Name": "Zephyr", 
+		"Cost": 3.5,
+		"Weight": 20.0,
+		"Type": "Marshmallow",
+		"Other": "Strawberry"
+	}
+	{
+		"Name": "Cracker", 
+		"Cost": 4.5,
+		"Weight": 45.0,
+		"Type": "Cookie",
+		"Other": "10"
+	}
+]
