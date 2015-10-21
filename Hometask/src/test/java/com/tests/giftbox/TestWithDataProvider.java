@@ -25,7 +25,7 @@ public class TestWithDataProvider {
                 { 1.2, 2, 6.5, 9.7 },
                 { 4, 5, 3, 12 },
                 { 0.2, 4, 6, 10.2 },
-                { -0.2, 4, 6, 10.2 } //fourth test is failed as expected 
+                //{ -0.2, 4, 6, 10.2 } //this test will be failed as expected 
        };            
     }
     

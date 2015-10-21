@@ -2,6 +2,7 @@ package com.hometask.candies;
 
 import org.apache.log4j.Logger;
 
+import com.hometask.calculations.MyException;
 import com.hometask.giftbox.Gift;
 
 public class Confection {
@@ -35,7 +36,11 @@ public class Confection {
 	public double getCost() {
 		if (cost < 0) {
 			log.error("Incorrect cost data (negative or missing digits)");
-			throw new IllegalArgumentException("Check the cost! Cost must be nonnegative");
+			try {
+				throw new MyException("Check the cost! Cost must be nonnegative");
+			} catch (MyException e) {
+			  e.printStackTrace();
+			}
 	    }
 		return cost;
 	}

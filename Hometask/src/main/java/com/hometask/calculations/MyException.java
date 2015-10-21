@@ -2,7 +2,13 @@ package com.hometask.calculations;
 
 public class MyException extends Exception {               
  
-    public MyException(String msg) {super(msg);} 
+    /**
+	 * 
+	 */
+	private static final long serialVersionUID = 1441839170537503840L;
+
+
+	public MyException(String msg) {super(msg);} 
     public MyException() {} 
     
 
@@ -10,7 +16,8 @@ public class MyException extends Exception {
         if (a < 0 || b < 0) {
             throw new MyException("Check entered numbers. They cannot be negative");
         }
-   
+        
     }
+    
 }
 

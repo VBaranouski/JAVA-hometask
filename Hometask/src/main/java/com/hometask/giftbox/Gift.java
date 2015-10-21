@@ -37,7 +37,7 @@ public class Gift implements Giftbox {
 		ArrayList<Confection> list = new ArrayList<Confection>();
 		Chocolate ch1 = new Chocolate("Snikers ", 2.99, 50, "Chocolate", "Hazelnut");
 		list.add(ch1);
-		Chocolate ch2 = new Chocolate("Mars    ", 2.51, 45, "Chocolate", "Meadows");
+		Chocolate ch2 = new Chocolate("Mars    ", -2.51, 45, "Chocolate", "Meadows");
 		list.add(ch2);
 		Marshmallow ms1 = new Marshmallow("Zephyr   ", 6.10, 80.1, "Marshmallow", "Blueberry");
 		list.add(ms1);
@@ -160,7 +160,7 @@ public class Gift implements Giftbox {
 			MyException.compareValues(a, b);
 		} catch (MyException e) {
 			e.printStackTrace();
-			log.error("Numbers cannot be negative. Second one should be bigger");
+			log.error(e);
 			System.exit(1);
 		}
 
