@@ -16,3 +16,533 @@
 2015-10-20 14:44:01 ERROR main Gift:findCandyByCost:165 - Numbers cannot be negative. Second one should be bigger
 2015-10-20 14:44:01 ERROR main Gift:getCost:37 - Incorrect cost data (negative or missing digits)
 2015-10-20 14:44:01 ERROR main Gift:getName:28 - Incorrect name data. Field is empty
+2015-10-20 15:48:55 ERROR main Gift:getName:28 - Incorrect name data. Field is empty
+2015-10-20 15:48:55 ERROR main Gift:findCandyByCost:165 - Numbers cannot be negative. Second one should be bigger
+2015-10-20 15:48:55 ERROR main Gift:findCandyByCost:165 - Numbers cannot be negative. Second one should be bigger
+2015-10-20 15:48:55 ERROR main Gift:getCost:37 - Incorrect cost data (negative or missing digits)
+2015-10-20 15:48:55 ERROR main Gift:getName:28 - Incorrect name data. Field is empty
+2015-10-20 16:05:33 ERROR main Gift:getName:28 - Incorrect name data. Field is empty
+2015-10-20 16:05:33 ERROR main Gift:findCandyByCost:165 - Numbers cannot be negative. Second one should be bigger
+2015-10-20 16:05:33 ERROR main Gift:findCandyByCost:165 - Numbers cannot be negative. Second one should be bigger
+2015-10-20 16:05:33 ERROR main Gift:getCost:37 - Incorrect cost data (negative or missing digits)
+2015-10-20 16:05:33 ERROR main Gift:getName:28 - Incorrect name data. Field is empty
+2015-10-20 16:05:48  INFO main Gift:createBox:52 - Creating a collection
+2015-10-20 16:05:48  INFO main Gift:createBox:59 - Saving to file
+2015-10-20 16:05:48 DEBUG main Gift:createBox:71 - Final cost is calculated: 26.08
+2015-10-20 16:05:48  INFO main Gift:createBox:79 - Sorting was successful
+2015-10-20 16:05:48 DEBUG main Gift:createBox:86 - Starting JSONparsing
+2015-10-20 16:05:48  INFO main Gift:createBox:105 - No errors during parsing
+//2015-10-20 16:06:06  INFO main Gift:createBox:52 - Creating a collection
+//2015-10-20 16:06:06  INFO main Gift:createBox:59 - Saving to file
+//2015-10-20 16:06:06 DEBUG main Gift:createBox:71 - Final cost is calculated: 26.08
+//2015-10-20 16:06:06  INFO main Gift:createBox:79 - Sorting was successful
+//2015-10-20 16:06:06 DEBUG main Gift:createBox:86 - Starting JSONparsing
+//2015-10-20 16:06:06  INFO main Gift:createBox:105 - No errors during parsing
+2015-10-20 16:08:33  INFO main Gift:createBox:52 - Creating a collection
+2015-10-20 16:08:33  INFO main Gift:createBox:59 - Saving to file
+2015-10-20 16:08:33 DEBUG main Gift:createBox:71 - Final cost is calculated: 26.08
+2015-10-20 16:08:33  INFO main Gift:createBox:79 - Sorting was successful
+2015-10-20 16:08:33 DEBUG main Gift:createBox:86 - Starting JSONparsing
+2015-10-20 16:08:33  INFO main Gift:createBox:105 - No errors during parsing
+2015-10-20 16:09:09  INFO main Gift:createBox:123 - No errors during searching for candy
+2015-10-20 16:35:12  INFO main Gift:createBox:52 - Creating a collection
+2015-10-20 16:35:12  INFO main Gift:createBox:59 - Saving to file
+2015-10-20 16:35:12 DEBUG main Gift:createBox:71 - Final cost is calculated: 26.08
+2015-10-20 16:35:12  INFO main Gift:createBox:79 - Sorting was successful
+2015-10-20 16:35:12 DEBUG main Gift:createBox:86 - Starting JSONparsing
+2015-10-20 16:35:12  INFO main Gift:createBox:105 - No errors during parsing
+2015-10-20 16:36:51  INFO main Gift:createBox:52 - Creating a collection
+2015-10-20 16:36:51  INFO main Gift:createBox:59 - Saving to file
+2015-10-20 16:36:51 DEBUG main Gift:createBox:71 - Final cost is calculated: 26.08
+2015-10-20 16:36:51  INFO main Gift:createBox:79 - Sorting was successful
+2015-10-20 16:36:51 DEBUG main Gift:createBox:86 - Starting JSONparsing
+2015-10-20 16:36:51  INFO main Gift:createBox:105 - No errors during parsing
+2015-10-20 16:37:05  INFO main Gift:createBox:123 - No errors during searching for candy
+2015-10-20 16:45:24  INFO main Gift:createBox:52 - Creating a collection
+2015-10-20 16:45:24  INFO main Gift:createBox:59 - Saving to file
+2015-10-20 16:45:24 DEBUG main Gift:createBox:71 - Final cost is calculated: 26.08
+2015-10-20 16:45:24  INFO main Gift:createBox:79 - Sorting was successful
+2015-10-20 16:45:24 DEBUG main Gift:createBox:86 - Starting JSONparsing
+2015-10-20 16:45:24  INFO main Gift:createBox:105 - No errors during parsing
+2015-10-20 22:42:30  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 22:42:30  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 22:42:30 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 22:42:30  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 22:42:30 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 22:42:30  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 22:42:37  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 22:42:59  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 22:42:59  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 22:42:59 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 22:42:59  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 22:42:59 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 22:42:59  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 22:43:03  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 22:47:34  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 22:47:34  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 22:47:34 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 22:47:34  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 22:47:34 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 22:47:34  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 22:47:37  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 22:48:00  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 22:48:00  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 22:48:00 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 22:48:00  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 22:48:00 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 22:48:00  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 22:48:02  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 22:48:19  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 22:48:19  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 22:48:19 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 22:48:19  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 22:48:19 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 22:48:19  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 22:48:21  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 22:49:35  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 22:49:35  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 22:49:35 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 22:49:35  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 22:49:35 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 22:49:35  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 22:49:38  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 22:51:28  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 22:51:28  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 22:51:28 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 22:51:28  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 22:51:28 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 22:51:28  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 22:51:31  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 22:53:10  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 22:53:10  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 22:53:10 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 22:53:10  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 22:53:10 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 22:53:10  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 22:53:12  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 22:53:53  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 22:53:53  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 22:53:53 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 22:53:53  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 22:53:53 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 22:53:53  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 22:53:56  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 22:54:01  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 22:54:01  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 22:54:01 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 22:54:01  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 22:54:01 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 22:54:01  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 22:54:04  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 22:55:12  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 22:55:12  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 22:55:12 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 22:55:12  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 22:55:12 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 22:55:12  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 22:55:14  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 22:55:40  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 22:55:40  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 22:55:40 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 22:55:40  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 22:55:40 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 22:55:40  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 22:55:44  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 22:57:10  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 22:57:10  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 22:57:10 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 22:57:10  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 22:57:10 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 22:57:10  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 22:57:12  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 22:57:16  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 22:57:16  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 22:57:16 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 22:57:16  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 22:57:16 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 22:57:16  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 22:57:19  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 22:58:09  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 22:58:09  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 22:58:09 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 22:58:09  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 22:58:09 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 22:58:09  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 22:58:12  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 22:58:47  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 22:58:47  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 22:58:47 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 22:58:47  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 22:58:47 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 22:58:47  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 22:58:52  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 22:59:58  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 22:59:58  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 22:59:58 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 22:59:58  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 22:59:58 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 22:59:58  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 23:00:06  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 23:01:14  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 23:01:14  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 23:01:14 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 23:01:14  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 23:01:14 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 23:01:14  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 23:01:24  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 23:01:43  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 23:01:43  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 23:01:43 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 23:01:43  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 23:01:43 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 23:01:43  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 23:01:46  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 23:03:35  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 23:03:35  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 23:03:35 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 23:03:35  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 23:03:35 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 23:03:35  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 23:03:37  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 23:03:41  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 23:03:41  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 23:03:41 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 23:03:41  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 23:03:41 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 23:03:41  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 23:03:43  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 23:03:59  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 23:03:59  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 23:03:59 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 23:03:59  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 23:03:59 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 23:03:59  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 23:04:02  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 23:04:12  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 23:04:12  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 23:04:12 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 23:04:12  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 23:04:12 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 23:04:12  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 23:04:14  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 23:06:08  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 23:06:08  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 23:06:08 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 23:06:08  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 23:06:08 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 23:06:08  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 23:06:16  INFO main Gift:createBox:53 - Creating a collection
+2015-10-20 23:06:16  INFO main Gift:createBox:60 - Saving to file
+2015-10-20 23:06:16 DEBUG main Gift:createBox:72 - Final cost is calculated: 26.08
+2015-10-20 23:06:16  INFO main Gift:createBox:80 - Sorting was successful
+2015-10-20 23:06:16 DEBUG main Gift:createBox:87 - Starting JSONparsing
+2015-10-20 23:06:16  INFO main Gift:createBox:106 - No errors during parsing
+2015-10-20 23:06:19  INFO main Gift:createBox:124 - No errors during searching for candy
+2015-10-20 23:08:04  INFO main Gift:createBox:50 - Creating a collection
+2015-10-20 23:08:04  INFO main Gift:createBox:56 - Saving to file
+2015-10-20 23:08:04 DEBUG main Gift:createBox:68 - Final cost is calculated: 26.08
+2015-10-20 23:08:04  INFO main Gift:createBox:75 - Sorting was successful
+2015-10-20 23:08:04 DEBUG main Gift:createBox:81 - Starting JSONparsing
+2015-10-20 23:08:04  INFO main Gift:createBox:100 - No errors during parsing
+2015-10-20 23:08:08 ERROR main Gift:findCandyByCost:163 - Numbers cannot be negative. Second one should be bigger
+2015-10-20 23:24:28  INFO main Gift:createBox:50 - Creating a collection
+2015-10-20 23:24:28  INFO main Gift:createBox:56 - Saving to file
+2015-10-20 23:24:28 DEBUG main Gift:createBox:68 - Final cost is calculated: 26.08
+2015-10-20 23:24:28  INFO main Gift:createBox:75 - Sorting was successful
+2015-10-20 23:24:28 DEBUG main Gift:createBox:81 - Starting JSONparsing
+2015-10-20 23:24:28  INFO main Gift:createBox:100 - No errors during parsing
+2015-10-20 23:24:34 ERROR main Gift:findCandyByCost:163 - Numbers cannot be negative
+2015-10-20 23:40:11  INFO main Gift:createBox:50 - Creating a collection
+2015-10-20 23:40:11  INFO main Gift:createBox:56 - Saving to file
+2015-10-20 23:40:11 DEBUG main Gift:createBox:68 - Final cost is calculated: 26.08
+2015-10-20 23:40:11  INFO main Gift:createBox:75 - Sorting was successful
+2015-10-20 23:40:11 DEBUG main Gift:createBox:81 - Starting JSONparsing
+2015-10-20 23:40:11  INFO main Gift:createBox:100 - No errors during parsing
+2015-10-20 23:40:16  INFO main Gift:createBox:117 - No errors during searching for candy
+2015-10-20 23:40:28  INFO main Gift:createBox:50 - Creating a collection
+2015-10-20 23:40:28  INFO main Gift:createBox:56 - Saving to file
+2015-10-20 23:40:28 DEBUG main Gift:createBox:68 - Final cost is calculated: 26.08
+2015-10-20 23:40:28  INFO main Gift:createBox:75 - Sorting was successful
+2015-10-20 23:40:28 DEBUG main Gift:createBox:81 - Starting JSONparsing
+2015-10-20 23:40:28  INFO main Gift:createBox:100 - No errors during parsing
+2015-10-20 23:40:33 ERROR main Gift:findCandyByCost:163 - com.hometask.calculations.MyException: Check entered numbers. They cannot be negative
+2015-10-21 13:30:26 ERROR main Gift:getName:28 - Incorrect name data. Field is empty
+2015-10-21 13:30:26 ERROR main Gift:findCandyByCost:163 - com.hometask.calculations.MyException: Check entered numbers. They cannot be negative
+2015-10-21 13:31:14 ERROR main Gift:getName:28 - Incorrect name data. Field is empty
+2015-10-21 13:31:14 ERROR main Gift:findCandyByCost:163 - com.hometask.calculations.MyException: Check entered numbers. They cannot be negative
+2015-10-21 13:32:24 ERROR main Gift:getName:28 - Incorrect name data. Field is empty
+2015-10-21 13:32:24 ERROR main Gift:findCandyByCost:163 - com.hometask.calculations.MyException: Check entered numbers. They cannot be negative
+2015-10-21 13:35:33 ERROR main Gift:getName:28 - Incorrect name data. Field is empty
+2015-10-21 13:35:33 ERROR main Gift:findCandyByCost:163 - com.hometask.calculations.MyException: Check entered numbers. They cannot be negative
+2015-10-21 13:37:13 ERROR main Gift:getName:28 - Incorrect name data. Field is empty
+2015-10-21 13:37:13 ERROR main Gift:findCandyByCost:163 - com.hometask.calculations.MyException: Check entered numbers. They cannot be negative
+2015-10-21 13:37:53 ERROR main Gift:getName:28 - Incorrect name data. Field is empty
+2015-10-21 13:37:53 ERROR main Gift:findCandyByCost:163 - com.hometask.calculations.MyException: Check entered numbers. They cannot be negative
+2015-10-21 13:39:11 ERROR main Gift:getName:28 - Incorrect name data. Field is empty
+2015-10-21 13:39:11 ERROR main Gift:findCandyByCost:163 - com.hometask.calculations.MyException: Check entered numbers. They cannot be negative
+2015-10-21 13:39:57  INFO main Gift:createBox:50 - Creating a collection
+2015-10-21 13:39:57  INFO main Gift:createBox:56 - Saving to file
+2015-10-21 13:39:57 DEBUG main Gift:createBox:68 - Final cost is calculated: 26.08
+2015-10-21 13:39:57  INFO main Gift:createBox:75 - Sorting was successful
+2015-10-21 13:39:57 DEBUG main Gift:createBox:81 - Starting JSONparsing
+2015-10-21 13:39:57  INFO main Gift:createBox:100 - No errors during parsing
+2015-10-21 13:40:02 ERROR main Gift:findCandyByCost:163 - com.hometask.calculations.MyException: Check entered numbers. They cannot be negative
+2015-10-21 13:40:16  INFO main Gift:createBox:50 - Creating a collection
+2015-10-21 13:40:16  INFO main Gift:createBox:56 - Saving to file
+2015-10-21 13:40:16 DEBUG main Gift:createBox:68 - Final cost is calculated: 26.08
+2015-10-21 13:40:16  INFO main Gift:createBox:75 - Sorting was successful
+2015-10-21 13:40:16 DEBUG main Gift:createBox:81 - Starting JSONparsing
+2015-10-21 13:40:16  INFO main Gift:createBox:100 - No errors during parsing
+2015-10-21 13:40:19  INFO main Gift:createBox:117 - No errors during searching for candy
+2015-10-21 13:41:59 ERROR main Gift:getName:28 - Incorrect name data. Field is empty
+2015-10-21 13:42:27 ERROR main Gift:getName:28 - Incorrect name data. Field is empty
+2015-10-21 13:42:40 ERROR main Gift:getName:28 - Incorrect name data. Field is empty
+2015-10-21 13:42:41 ERROR main Gift:getName:28 - Incorrect name data. Field is empty
+2015-10-21 13:42:41 ERROR main Gift:getCost:37 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:43:33 ERROR main Gift:getName:28 - Incorrect name data. Field is empty
+2015-10-21 13:43:33 ERROR main Gift:getCost:37 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:43:33 ERROR main Gift:getName:28 - Incorrect name data. Field is empty
+2015-10-21 13:44:05 ERROR main Gift:getName:28 - Incorrect name data. Field is empty
+2015-10-21 13:44:05 ERROR main Gift:getName:28 - Incorrect name data. Field is empty
+2015-10-21 13:44:05 ERROR main Gift:getCost:37 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:47:43 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 13:47:43 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 13:47:43 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:48:58 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 13:48:58 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 13:48:58 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:49:14 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 13:49:14 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:49:14 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 13:50:22 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 13:50:22 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 13:50:30 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 13:50:30 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 13:51:55 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 13:51:55 ERROR main Gift:findCandyByCost:163 - com.hometask.calculations.MyException: Check entered numbers. They cannot be negative
+2015-10-21 13:52:56 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 13:52:56 ERROR main Gift:findCandyByCost:163 - com.hometask.calculations.MyException: Check entered numbers. They cannot be negative
+2015-10-21 13:53:36 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 13:54:05 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 13:54:05 ERROR main Gift:findCandyByCost:163 - com.hometask.calculations.MyException: Check entered numbers. They cannot be negative
+2015-10-21 13:54:42 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 13:54:42 ERROR main Gift:findCandyByCost:163 - com.hometask.calculations.MyException: Check entered numbers. They cannot be negative
+2015-10-21 13:57:06  INFO main Gift:createBox:50 - Creating a collection
+2015-10-21 13:57:06 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:57:06  INFO main Gift:createBox:56 - Saving to file
+2015-10-21 13:57:06 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:57:06 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:57:06 DEBUG main Gift:createBox:68 - Final cost is calculated: 21.060000000000002
+2015-10-21 13:57:06 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:57:06 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:57:06 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:57:06 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:57:06 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:57:06  INFO main Gift:createBox:75 - Sorting was successful
+2015-10-21 13:57:06 DEBUG main Gift:createBox:81 - Starting JSONparsing
+2015-10-21 13:57:06  INFO main Gift:createBox:100 - No errors during parsing
+2015-10-21 13:57:43  INFO main Gift:createBox:50 - Creating a collection
+2015-10-21 13:57:43  INFO main Gift:createBox:56 - Saving to file
+2015-10-21 13:57:43 DEBUG main Gift:createBox:68 - Final cost is calculated: 26.08
+2015-10-21 13:57:43  INFO main Gift:createBox:75 - Sorting was successful
+2015-10-21 13:57:43 DEBUG main Gift:createBox:81 - Starting JSONparsing
+2015-10-21 13:57:43  INFO main Gift:createBox:100 - No errors during parsing
+2015-10-21 13:57:51  INFO main Gift:createBox:50 - Creating a collection
+2015-10-21 13:57:51 ERROR main Gift:getWeight:50 - Incorrect weight data (negative or missing digits)
+2015-10-21 13:58:31  INFO main Gift:createBox:50 - Creating a collection
+2015-10-21 13:58:31 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:58:31  INFO main Gift:createBox:56 - Saving to file
+2015-10-21 13:58:31 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:58:31 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:58:31 DEBUG main Gift:createBox:68 - Final cost is calculated: 21.060000000000002
+2015-10-21 13:58:31 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:58:31 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:58:31 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:58:31 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:58:31 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:58:31  INFO main Gift:createBox:75 - Sorting was successful
+2015-10-21 13:58:31 DEBUG main Gift:createBox:81 - Starting JSONparsing
+2015-10-21 13:58:31  INFO main Gift:createBox:100 - No errors during parsing
+2015-10-21 13:58:45  INFO main Gift:createBox:50 - Creating a collection
+2015-10-21 13:58:45 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:58:45  INFO main Gift:createBox:56 - Saving to file
+2015-10-21 13:58:45 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:58:45 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:58:45 DEBUG main Gift:createBox:68 - Final cost is calculated: 21.060000000000002
+2015-10-21 13:58:45 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:58:45 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:58:45 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:58:45 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:58:45 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:58:45  INFO main Gift:createBox:75 - Sorting was successful
+2015-10-21 13:58:45 DEBUG main Gift:createBox:81 - Starting JSONparsing
+2015-10-21 13:58:45  INFO main Gift:createBox:100 - No errors during parsing
+2015-10-21 13:59:14  INFO main Gift:createBox:50 - Creating a collection
+2015-10-21 13:59:14 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:59:14  INFO main Gift:createBox:56 - Saving to file
+2015-10-21 13:59:14 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:59:14 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:59:14 DEBUG main Gift:createBox:68 - Final cost is calculated: 21.060000000000002
+2015-10-21 13:59:14 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:59:14 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:59:14 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:59:14 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:59:14 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:59:14  INFO main Gift:createBox:75 - Sorting was successful
+2015-10-21 13:59:14 DEBUG main Gift:createBox:81 - Starting JSONparsing
+2015-10-21 13:59:14  INFO main Gift:createBox:100 - No errors during parsing
+2015-10-21 13:59:23  INFO main Gift:createBox:50 - Creating a collection
+2015-10-21 13:59:23 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:59:23  INFO main Gift:createBox:56 - Saving to file
+2015-10-21 13:59:23 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:59:23 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:59:23 DEBUG main Gift:createBox:68 - Final cost is calculated: 21.060000000000002
+2015-10-21 13:59:23 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:59:23 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:59:23 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:59:23 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:59:23 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-21 13:59:23  INFO main Gift:createBox:75 - Sorting was successful
+2015-10-21 13:59:23 DEBUG main Gift:createBox:81 - Starting JSONparsing
+2015-10-21 13:59:23  INFO main Gift:createBox:100 - No errors during parsing
+2015-10-21 13:59:36 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 13:59:36 ERROR main Gift:findCandyByCost:163 - com.hometask.calculations.MyException: Check entered numbers. They cannot be negative
+2015-10-21 14:00:07 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 14:00:07 ERROR main Gift:findCandyByCost:163 - com.hometask.calculations.MyException: Check entered numbers. They cannot be negative
+2015-10-21 14:01:19 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 14:01:19 ERROR main Gift:findCandyByCost:163 - com.hometask.calculations.MyException: Check entered numbers. They cannot be negative
+2015-10-21 14:02:05 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 14:02:05 ERROR main Gift:findCandyByCost:163 - com.hometask.calculations.MyException: Check entered numbers. They cannot be negative
+2015-10-21 14:02:44 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 14:04:45 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 14:04:45 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 14:06:17 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 14:06:17 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 14:09:02 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 14:09:03 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 14:09:51 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-21 14:09:51 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-22 21:45:46 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-22 21:45:46 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-22 21:45:54  INFO main Gift:createBox:39 - Creating a collection
+2015-10-22 21:45:54  INFO main Gift:createBox:45 - Saving to file
+2015-10-22 21:45:54 DEBUG main Gift:createBox:57 - Final cost is calculated: 0.0
+2015-10-22 21:45:54  INFO main Gift:createBox:64 - Sorting was successful
+2015-10-22 21:45:54 DEBUG main Gift:createBox:70 - Starting JSONparsing
+2015-10-22 21:45:54  INFO main Gift:createBox:89 - No errors during parsing
+2015-10-22 21:46:47  INFO main Gift:createBox:39 - Creating a collection
+2015-10-22 21:46:47  INFO main Gift:createBox:45 - Saving to file
+2015-10-22 21:46:47 DEBUG main Gift:createBox:57 - Final cost is calculated: 0.0
+2015-10-22 21:46:47  INFO main Gift:createBox:64 - Sorting was successful
+2015-10-22 21:46:47 DEBUG main Gift:createBox:70 - Starting JSONparsing
+2015-10-22 21:46:47  INFO main Gift:createBox:89 - No errors during parsing
+2015-10-22 21:49:16  INFO main Gift:createBox:39 - Creating a collection
+2015-10-22 21:49:16 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-22 21:49:16  INFO main Gift:createBox:45 - Saving to file
+2015-10-22 21:49:16 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-22 21:49:16 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-22 21:49:16 DEBUG main Gift:createBox:57 - Final cost is calculated: 21.060000000000002
+2015-10-22 21:49:16 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-22 21:49:16 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-22 21:49:16 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-22 21:49:16 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-22 21:49:16 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-22 21:49:16  INFO main Gift:createBox:64 - Sorting was successful
+2015-10-22 21:49:16 DEBUG main Gift:createBox:70 - Starting JSONparsing
+2015-10-22 21:49:16  INFO main Gift:createBox:89 - No errors during parsing
+2015-10-22 22:03:16  INFO main Gift:createBox:37 - Creating a collection
+2015-10-22 22:03:16  INFO main Gift:createBox:41 - Saving to file
+2015-10-22 22:03:16 DEBUG main Gift:createBox:52 - Final cost is calculated: 26.08
+2015-10-22 22:03:17  INFO main Gift:createBox:59 - Sorting was successful
+2015-10-22 22:03:17 DEBUG main Gift:parseJsonWithToCollection:177 - Starting JSONparsing
+2015-10-22 22:03:17  INFO main Gift:parseJsonWithToCollection:196 - No errors during parsing
+2015-10-22 22:08:00  INFO main Gift:createBox:36 - Creating a collection
+2015-10-22 22:08:00  INFO main Gift:createBox:42 - Saving to file
+2015-10-22 22:08:00 DEBUG main Gift:createBox:53 - Final cost is calculated: 26.08
+2015-10-22 22:08:00  INFO main Gift:createBox:60 - Sorting was successful
+2015-10-22 22:08:00 DEBUG main Gift:parseJsonWithToCollection:177 - Starting JSONparsing
+2015-10-22 22:08:00  INFO main Gift:parseJsonWithToCollection:196 - No errors during parsing
+2015-10-22 22:16:40  INFO main Gift:createBox:36 - Creating a collection
+2015-10-22 22:16:40  INFO main Gift:createBox:41 - Saving to file
+2015-10-22 22:16:40 DEBUG main Gift:createBox:52 - Final cost is calculated: 26.08
+2015-10-22 22:16:40  INFO main Gift:createBox:59 - Sorting was successful
+2015-10-22 22:16:40 DEBUG main Gift:parseJsonWithInfoToCollection:178 - Starting JSONparsing
+2015-10-22 22:16:40  INFO main Gift:parseJsonWithInfoToCollection:197 - No errors during parsing
+2015-10-22 22:19:43  INFO main Gift:createBox:36 - Creating a collection
+2015-10-22 22:19:43  INFO main Gift:createBox:41 - Saving to file
+2015-10-22 22:19:43 DEBUG main Gift:createBox:52 - Final cost is calculated: 26.08
+2015-10-22 22:19:43  INFO main Gift:createBox:59 - Sorting was successful
+2015-10-22 22:19:43 DEBUG main Gift:parseJsonWithInfoToCollection:169 - Starting JSONparsing
+2015-10-22 22:19:43  INFO main Gift:parseJsonWithInfoToCollection:188 - No errors during parsing
+2015-10-22 22:20:17  INFO main Gift:createBox:36 - Creating a collection
+2015-10-22 22:20:17 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-22 22:20:17  INFO main Gift:createBox:41 - Saving to file
+2015-10-22 22:20:17 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-22 22:20:17 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-22 22:20:17 DEBUG main Gift:createBox:52 - Final cost is calculated: 21.060000000000002
+2015-10-22 22:20:17 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-22 22:20:17 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-22 22:20:17 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-22 22:20:17 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-22 22:20:17 ERROR main Gift:getCost:38 - Incorrect cost data (negative or missing digits)
+2015-10-22 22:20:17  INFO main Gift:createBox:59 - Sorting was successful
+2015-10-22 22:20:17 DEBUG main Gift:parseJsonWithInfoToCollection:169 - Starting JSONparsing
+2015-10-22 22:20:17  INFO main Gift:parseJsonWithInfoToCollection:188 - No errors during parsing
+2015-10-22 22:20:31  INFO main Gift:createBox:36 - Creating a collection
+2015-10-22 22:20:31  INFO main Gift:createBox:41 - Saving to file
+2015-10-22 22:20:31 DEBUG main Gift:createBox:52 - Final cost is calculated: 26.08
+2015-10-22 22:20:31  INFO main Gift:createBox:59 - Sorting was successful
+2015-10-22 22:20:31 DEBUG main Gift:parseJsonWithInfoToCollection:169 - Starting JSONparsing
+2015-10-22 22:20:31  INFO main Gift:parseJsonWithInfoToCollection:188 - No errors during parsing
+2015-10-22 22:20:39  INFO main Gift:createBox:36 - Creating a collection
+2015-10-22 22:20:39  INFO main Gift:createBox:41 - Saving to file
+2015-10-22 22:20:39 DEBUG main Gift:createBox:52 - Final cost is calculated: 26.08
+2015-10-22 22:20:39  INFO main Gift:createBox:59 - Sorting was successful
+2015-10-22 22:20:39 DEBUG main Gift:parseJsonWithInfoToCollection:169 - Starting JSONparsing
+2015-10-22 22:20:39  INFO main Gift:parseJsonWithInfoToCollection:188 - No errors during parsing
+2015-10-22 22:20:43  INFO main Gift:createBox:70 - No errors during searching for candy
+2015-10-22 22:22:20  INFO main Gift:createBox:36 - Creating a collection
+2015-10-22 22:22:20  INFO main Gift:createBox:41 - Saving to file
+2015-10-22 22:22:20 DEBUG main Gift:createBox:52 - Final cost is calculated: 26.08
+2015-10-22 22:22:20  INFO main Gift:createBox:59 - Sorting was successful
+2015-10-22 22:22:20 DEBUG main Gift:parseJsonWithInfoToCollection:175 - Starting JSONparsing
+2015-10-22 22:22:20  INFO main Gift:parseJsonWithInfoToCollection:194 - No errors during parsing
+2015-10-22 22:22:24  INFO main Gift:createBox:70 - No errors during searching for candy
+2015-10-22 22:22:57  INFO main Gift:createBox:36 - Creating a collection
+2015-10-22 22:22:57  INFO main Gift:createBox:41 - Saving to file
+2015-10-22 22:22:57 DEBUG main Gift:createBox:52 - Final cost is calculated: 26.08
+2015-10-22 22:22:57  INFO main Gift:createBox:59 - Sorting was successful
+2015-10-22 22:22:57 DEBUG main Gift:parseJsonWithInfoToCollection:176 - Starting JSONparsing
+2015-10-22 22:22:57  INFO main Gift:parseJsonWithInfoToCollection:195 - No errors during parsing
+2015-10-22 22:23:01  INFO main Gift:createBox:70 - No errors during searching for candy
+2015-10-22 22:23:58  INFO main Gift:createBox:36 - Creating a collection
+2015-10-22 22:23:58  INFO main Gift:createBox:41 - Saving to file
+2015-10-22 22:23:58 DEBUG main Gift:createBox:52 - Final cost is calculated: 26.08
+2015-10-22 22:23:58  INFO main Gift:createBox:59 - Sorting was successful
+2015-10-22 22:23:58 DEBUG main Gift:parseJsonWithInfoToCollection:177 - Starting JSONparsing
+2015-10-22 22:23:58  INFO main Gift:parseJsonWithInfoToCollection:196 - No errors during parsing
+2015-10-22 22:25:32  INFO main Gift:createBox:36 - Creating a collection
+2015-10-22 22:25:32  INFO main Gift:createBox:41 - Saving to file
+2015-10-22 22:25:32 DEBUG main Gift:createBox:52 - Final cost is calculated: 26.08
+2015-10-22 22:25:32  INFO main Gift:createBox:59 - Sorting was successful
+2015-10-22 22:25:32 DEBUG main Gift:parseJsonWithInfoToCollection:173 - Starting JSONparsing
+2015-10-22 22:25:32  INFO main Gift:parseJsonWithInfoToCollection:192 - No errors during parsing
+2015-10-22 22:26:05  INFO main Gift:createBox:36 - Creating a collection
+2015-10-22 22:26:05  INFO main Gift:createBox:41 - Saving to file
+2015-10-22 22:26:05 DEBUG main Gift:createBox:52 - Final cost is calculated: 26.08
+2015-10-22 22:26:05  INFO main Gift:createBox:59 - Sorting was successful
+2015-10-22 22:26:05 DEBUG main Gift:parseJsonWithInfoToCollection:173 - Starting JSONparsing
+2015-10-22 22:26:05  INFO main Gift:parseJsonWithInfoToCollection:192 - No errors during parsing
+2015-10-22 22:28:22 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-22 22:29:05 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-22 22:38:40  INFO main Gift:createBox:36 - Creating a collection
+2015-10-22 22:40:15  INFO main Gift:createBox:36 - Creating a collection
+2015-10-22 22:40:15  INFO main Gift:createBox:41 - Saving to file
+2015-10-22 22:40:15 DEBUG main Gift:createBox:52 - Final cost is calculated: 26.08
+2015-10-22 22:40:15  INFO main Gift:createBox:59 - Sorting was successful
+2015-10-22 22:40:15 DEBUG main Gift:parseJsonWithInfoToCollection:173 - Starting JSONparsing
+2015-10-22 22:40:15  INFO main Gift:parseJsonWithInfoToCollection:192 - No errors during parsing
+2015-10-22 22:40:33 ERROR main Gift:getName:29 - Incorrect name data. Field is empty
+2015-10-22 23:10:59 ERROR main Gift:getName:27 - Incorrect name data. Field is empty
+2015-10-22 23:11:32 ERROR main Gift:getName:27 - Incorrect name data. Field is empty
+2015-10-22 23:13:51 ERROR main Gift:getName:27 - Incorrect name data. Field is empty

@@ -2,7 +2,6 @@ package com.hometask.candies;
 
 import org.apache.log4j.Logger;
 
-import com.hometask.calculations.MyException;
 import com.hometask.giftbox.Gift;
 
 public class Confection {
@@ -20,12 +19,10 @@ public class Confection {
 		this.type = type;
 	}
 
-	public Confection() {
-		// TODO Auto-generated constructor stub
-	}
+	public Confection() {}
 
 	public String getName() {
-		if (name == "" || name == " ") { 
+		if (name.isEmpty()) { 
 			log.error("Incorrect name data. Field is empty");
 			throw new IllegalArgumentException("Check the Name! Name field cannot be empty");
 	    }
@@ -35,12 +32,9 @@ public class Confection {
 
 	public double getCost() {
 		if (cost < 0) {
-			log.error("Incorrect cost data (negative or missing digits)");
-			try {
-				throw new MyException("Check the cost! Cost must be nonnegative");
-			} catch (MyException e) {
-			  e.printStackTrace();
-			}
+			log.error("Incorrect weight data (negative or missing digits)");
+			throw new IllegalArgumentException("Check the cost! Cost must be nonnegative");
+			
 	    }
 		return cost;
 	}
@@ -60,6 +54,22 @@ public class Confection {
 	    }
 		return type;
 		
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public void setCost(double cost) {
+		this.cost = cost;
+	}
+
+	public void setWeight(double weight) {
+		this.weight = weight;
+	}
+
+	public void setType(String type) {
+		this.type = type;
 	}
 	
 		

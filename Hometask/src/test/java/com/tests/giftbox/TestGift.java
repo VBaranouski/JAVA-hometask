@@ -2,7 +2,6 @@ package com.tests.giftbox;
 
 import static org.junit.Assert.*;
 
-import com.hometask.calculations.MyException;
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -68,12 +67,12 @@ public class TestGift {
 		assertEquals((candy.append("B(B1), ")), g.findCandyByCost(1.3, 2.15, listN));
 	}
 
-	/*	
-	@Test(expected = MyException.class) // Values cannot be negative
+		
+	@Test(expected = IllegalArgumentException.class) // Values cannot be negative
 	public void testFindCandyByCostNegative2() {
 		assertEquals((candy.append("C(C1), ")), g.findCandyByCost(-2.9, 2.25, list));
 	}
-    */
+    
 	
 	@Category({ PositiveTests.class })
 	@Test
