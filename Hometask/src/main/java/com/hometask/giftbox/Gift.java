@@ -25,7 +25,9 @@ import org.apache.log4j.Logger;
 
 public class Gift implements Giftbox {
 
+	
 	final static Logger log = Logger.getLogger(Gift.class);
+	
 	
 	public static void createBox() {
 
