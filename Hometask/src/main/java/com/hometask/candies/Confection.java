@@ -23,7 +23,7 @@ public class Confection {
 	public Confection() {}
 
 	public String getName() {
-		if (name.isEmpty()) { 
+		if (name.isEmpty() || name == null) { 
 			log.error("Incorrect name data. Field is empty");
 			throw new IllegalArgumentException("Check the Name! Name field cannot be empty");
 	    }
@@ -49,7 +49,7 @@ public class Confection {
 	}
 	
 	public String getType() {
-		if (type.isEmpty()) {
+		if (type.isEmpty() || type == null) {
 			log.error("Incorrect name data. Field is empty");
 			throw new IllegalArgumentException("Check the type! Type field cannot be empty");
 	    }
