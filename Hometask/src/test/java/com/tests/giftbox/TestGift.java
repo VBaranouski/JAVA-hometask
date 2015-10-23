@@ -13,6 +13,7 @@ import org.junit.Ignore;
 import org.junit.Test;
 import org.junit.experimental.categories.Category;
 
+import com.hometask.calculations.MyException;
 import com.hometask.candies.Chocolate;
 import com.hometask.candies.Confection;
 import com.hometask.candies.Cookies;
@@ -44,7 +45,7 @@ public class TestGift {
 		list.add(ck1);
 
 		listN = new ArrayList<Confection>();
-		Chocolate ch2 = new Chocolate("", 2.00, 15, "", "A2");
+		Chocolate ch2 = new Chocolate("", 2.00, -15, "", "A2");
 		listN.add(ch2);
 		Marshmallow mm2 = new Marshmallow("B", -2.50, 5, "B1", "B2");
 		listN.add(mm2);
@@ -103,6 +104,12 @@ public class TestGift {
 		br.close();
 	}
 	
+	@Test (expected = MyException.class)
+	public void testNegativeWeightNumbers() throws MyException {
+		Confection con = new Confection();
+		con.setWeight(-2.4);
+		assertTrue(con.getWeight()<0);
+	}
 	
 	
 	

@@ -2,6 +2,7 @@ package com.hometask.candies;
 
 import org.apache.log4j.Logger;
 
+import com.hometask.calculations.MyException;
 import com.hometask.giftbox.Gift;
 
 public class Confection {
@@ -39,16 +40,16 @@ public class Confection {
 		return cost;
 	}
 
-	public double getWeight() {
+	public double getWeight() throws MyException {
 		if (weight <= 0) {
-			log.error("Incorrect weight data (negative or missing digits)");
-			throw new IllegalArgumentException("Check the weight! Weight must be nonnegative");
+			log.error("Negative Weigt value");
+			throw new MyException("Negative Weigt value");
 	    }
 		return weight;
 	}
 	
 	public String getType() {
-		if (type == "" || type == " ") {
+		if (type.isEmpty()) {
 			log.error("Incorrect name data. Field is empty");
 			throw new IllegalArgumentException("Check the type! Type field cannot be empty");
 	    }

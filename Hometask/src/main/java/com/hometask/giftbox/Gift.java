@@ -14,6 +14,7 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
+import com.hometask.calculations.MyException;
 import com.hometask.calculations.SortByCost;
 import com.hometask.candies.Chocolate;
 import com.hometask.candies.Confection;
@@ -114,8 +115,12 @@ public class Gift implements Giftbox {
 		int i = 1;
 		System.out.println("ID: " + " NAME:    " + "   COST: " + "   WEIGHT:  " + "  TYPE:");
 		for (Confection vault : list) {
-			System.out.println(i + ".   " + vault.getName() + "    " + vault.getCost() + "       " + vault.getWeight()
-					+ "     " + vault.getType());
+			try {
+				System.out.println(i + ".   " + vault.getName() + "    " + vault.getCost() + "       " + vault.getWeight()
+						+ "     " + vault.getType());
+			} catch (MyException e) {
+				e.printStackTrace();
+			}
 			i++;
 		}
 	}
@@ -130,8 +135,12 @@ public class Gift implements Giftbox {
 		Writer output = new BufferedWriter(file);
 		int i = 1;
 		for (Confection vault : list) {
-			output.write(i + ". " + vault.getName() + " " + vault.getCost() + " " + vault.getWeight() + " "
-					+ vault.getType() + "\n");
+			try {
+				output.write(i + ". " + vault.getName() + " " + vault.getCost() + " " + vault.getWeight() + " "
+						+ vault.getType() + "\n");
+			} catch (MyException e) {
+				System.out.println(e);
+			}
 			i++;
 		}
 		output.close();
@@ -172,8 +181,12 @@ public class Gift implements Giftbox {
 				Chocolate candy = new Chocolate(name, cost, weight, type, other);
 				newlist.add(candy);
 				for (Confection vault : newlist) {
-					System.out.println(".   " + vault.getName() + "    " + vault.getCost() + "   " + vault.getWeight()
-							+ "   " + vault.getType());
+					try {
+						System.out.println(".   " + vault.getName() + "    " + vault.getCost() + "   " + vault.getWeight()
+								+ "   " + vault.getType());
+					} catch (MyException e) {
+						System.out.println(e);
+					}
 				}
 			}
 			log.info("No errors during parsing");
@@ -188,6 +201,7 @@ public class Gift implements Giftbox {
 			log.error("Parse exception", e);
 		}
 	}
+	
 	
 	/** Text messages */
 	
